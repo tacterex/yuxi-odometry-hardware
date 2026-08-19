@@ -17,11 +17,13 @@ Keep in mind that the electronics assembly affects some aspects of the mechanica
 
 The 3D-printed parts were designed and tested using the following printer settings:
 
-| Setting     | Recommended value |
-| ----------- | ----------------- |
-| Printer     | Prusa i3 MK3S     |
-| Nozzle size | 0.2 mm            |
-| Material    | PLA / PETG / ABS  |
+| Setting            | Recommended value |
+| -----------        | ----------------- |
+| Printer            | Prusa i3 MK3S     |
+| Nozzle size        | 0.2 mm            |
+| Material           | PLA / PETG / ABS  |
+| Layer height       | 0.1mm             |
+| First layer height | 0.15mm            |
 
 > **Note:** The dimensional tolerances were calibrated specifically for the Prusa i3 MK3S. Depending on your printer and its calibration, you may need to adjust the tolerances to achieve the intended fit.
 
